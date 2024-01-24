@@ -65,7 +65,7 @@
 - ⭐ &emsp; I love writing clean code. <br/>
 - 🏅 &emsp; Enjoy Breaking Records and Earning Certificates and Badges<br/>
 - ⚡ &emsp; I Enjoy playing chess and love coffee.<br/>
-- 📧 &emsp; Reach me anytime: [here](mailto:hossam.sahss120@gmail.com)<br/>
+- 📧 &emsp; Reach me anytime: [Email](mailto:hossam.sahss120@gmail.com)<br/>
 </p>
 <hr/>
 
