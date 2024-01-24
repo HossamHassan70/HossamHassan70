@@ -1,8 +1,14 @@
+<a href="https://komarev.com/ghpvc/?username=HossamHassan70">
+  <img align="right" src="https://komarev.com/ghpvc/?username=hassaneldash&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+[![wakatime](https://wakatime.com/badge/user/018d0815-72c4-4cbd-813f-ae04bae75ceb.svg)](https://wakatime.com/@HossamHassan70)
 
 <h3 align="center">
   Welcome to Hossam Hassan Hafez's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -54,26 +60,15 @@
  <img align="right" width="350" src="/assets/giphy.gif" alt="Coding gif" />
 - 🏢 &emsp; I'm a Software Engineer and Fullstack Developer | Python.<br/>
 - 👨‍💻 &emsp; As an ALX student, I constantly learn and explore new technologies to improve my skills.<br/>
-- 🎓 &emsp; Graduated From Information Technology Institute (ITI). <br/>
+- 🎓 &emsp; I'm a Student at Information Technology Institute (ITI). <br/>
 - ⭐ &emsp; I love writing clean code. <br/>
 - 🏅 &emsp; Enjoy Breaking Records and Earning Certificates and Badges<br/>
-- 💬 Ask me about my experience with JavaScript, jQuery, React, SQL, PostgreSQL, Linux, Bash Scripting, or anything related to web Development.<br/>
+ 📧 &emsp; Contact to me anytime: [Email!](mailto:hossam.sahss120@gmail.com)<br/>
 - ⚡ &emsp; I Enjoy playing chess and love coffee.<br/>
  </p>
  
 <hr/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HossamHassan70&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-
-<a href="https://komarev.com/ghpvc/?username=HossamHassan70">
-  <img align="right" src="https://komarev.com/ghpvc/?username=hassaneldash&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-[![wakatime](https://wakatime.com/badge/user/018d0815-72c4-4cbd-813f-ae04bae75ceb.svg)](https://wakatime.com/@HossamHassan70)
-
-
-<hr/>
 <!-- Skills Section -->
 
 # My Skills
