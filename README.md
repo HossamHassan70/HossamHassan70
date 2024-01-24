@@ -58,15 +58,15 @@
  <p>
   <!-- Source : https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl -->
  <img align="right" width="350" src="/assets/giphy.gif" alt="Coding gif" />
+
 - 🏢 &emsp; I'm a Software Engineer and Fullstack Developer | Python.<br/>
 - 👨‍💻 &emsp; As an ALX student, I constantly learn and explore new technologies to improve my skills.<br/>
 - 🎓 &emsp; I'm a Student at Information Technology Institute (ITI). <br/>
 - ⭐ &emsp; I love writing clean code. <br/>
 - 🏅 &emsp; Enjoy Breaking Records and Earning Certificates and Badges<br/>
- 📧 &emsp; Contact to me anytime: [Email!](mailto:hossam.sahss120@gmail.com)<br/>
 - ⚡ &emsp; I Enjoy playing chess and love coffee.<br/>
- </p>
- 
+- 📧 &emsp; Reach me anytime: [here](mailto:hossam.sahss120@gmail.com)<br/>
+</p>
 <hr/>
 
 <!-- Skills Section -->
