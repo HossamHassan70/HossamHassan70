@@ -1,8 +1,8 @@
 <a href="https://komarev.com/ghpvc/?username=HossamHassan70">
-  <img align="right" src="https://komarev.com/ghpvc/?username=hassaneldash&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=HossamHassan70&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/018d0815-72c4-4cbd-813f-ae04bae75ceb.svg)](https://wakatime.com/@HossamHassan70)
+[![wakatime](https://wakatime.com/badge/user/018d3ba1-caf7-4c36-bc8b-102538891add.svg)](https://wakatime.com/@018d3ba1-caf7-4c36-bc8b-102538891add)
 
 <h3 align="center">
   Welcome to Hossam Hassan Hafez's profile!
@@ -20,11 +20,11 @@
 <p align="center">
   
  <a href="https://www.linkedin.com/in/hossam-hassan-88695522a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hassaneldash"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="HossamHassan"/>
  </a>
   
  <a href="https://t.me/Hossam_Hassan07" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="hassaneldash"  />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="HossamHassan"  />
   </a> 
  
  <a href="https://www.coursera.org/user/2ccc1cded97c3d52ea586e8cb186d9b7" target="_blank">
