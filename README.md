@@ -30,11 +30,7 @@
  <a href="https://www.coursera.org/user/2ccc1cded97c3d52ea586e8cb186d9b7" target="_blank">
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
  </a>
- 
- <a href="confirm.udacity.com/TNLHZKEU" target="_blank">
-  <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=white" />
- </a>
-  
+   
  <a href="https://www.credly.com/users/hossam-hassan.418c40bf/badges" target="_blank">
   <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
  </a>
