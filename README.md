@@ -57,11 +57,11 @@
 
 - 🏢 &emsp; I'm a Software Engineer and Fullstack Developer | Python.<br/>
 - 👨‍💻 &emsp; As an ALX student, I constantly learn and explore new technologies to improve my skills.<br/>
-- 🎓 &emsp; I'm a Student at Information Technology Institute (ITI). <br/>
+- 🎓 &emsp; I Graduated From Information Technology Institute (ITI) Full-Stack | Python. <br/>
 - ⭐ &emsp; I love writing clean code. <br/>
 - 🏅 &emsp; Enjoy Breaking Records and Earning Certificates and Badges<br/>
 - ⚡ &emsp; I Enjoy playing chess and love coffee.<br/>
-- 📧 &emsp; Reach me anytime: [Email](mailto:hossam.sahss120@gmail.com)<br/>
+- 📧 &emsp; Reach me anytime: [Email](mailto:hossam.h.a.hafez@gmail.com)<br/>
 </p>
 <hr/>
 
