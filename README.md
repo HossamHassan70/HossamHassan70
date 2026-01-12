@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
  </a>
    
- <a href="https://www.credly.com/users/hossam-hassan.418c40bf/badges" target="_blank">
+ <a href="https://www.credly.com/users/hossam-hafez70" target="_blank">
   <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
  </a>
  
@@ -57,10 +57,10 @@
 
 - 🏢 &emsp; I'm a Software Engineer and Fullstack Developer | Python.<br/>
 - 👨‍💻 &emsp; I constantly learn and explore new technologies to improve my skills.<br/>
-- 🎓 &emsp; I Graduated From Information Technology Institute (ITI) Full-Stack | Python. <br/>
+- 🎓 &emsp; I Graduated From the Information Technology Institute (ITI) Full-Stack | Python. <br/>
 - ⭐ &emsp; I love writing clean code. <br/>
 - 🏅 &emsp; Enjoy Breaking Records and Earning Certificates and Badges<br/>
-- ⚡ &emsp; I Enjoy playing chess and love coffee.<br/>
+- ⚡ &emsp; I enjoy playing chess and love coffee.<br/>
 - 📧 &emsp; Reach me anytime: [Email](mailto:hossam.h.a.hafez@gmail.com)<br/>
 </p>
 <hr/>
